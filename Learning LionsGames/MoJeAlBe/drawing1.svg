@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4384"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="/home/ll15/Documents/MoJeAlBe/Pacman.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="New document 11">
+  <defs
+     id="defs4386">
+    <linearGradient
+       id="linearGradient5225"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5227" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1352.4209"
+     inkscape:cy="728.49855"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1323"
+     inkscape:window-height="750"
+     inkscape:window-x="43"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4389">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5266"
+       inkscape:export-filename="/home/ll15/Documents/MoJeAlBe/Pacman.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="translate(-57.142867,14.571421)"
+         d="m 617.14287,438.07648 a 188.57143,182.85715 0 1 1 -377.14285,0 188.57143,182.85715 0 1 1 377.14285,0 z"
+         sodipodi:ry="182.85715"
+         sodipodi:rx="188.57143"
+         sodipodi:cy="438.07648"
+         sodipodi:cx="428.57144"
+         id="path4411"
+         style="fill:#00ff00;fill-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5231"
+         d="m 447.40638,510.68274 c -64.27423,-33.08655 -79.22687,-41.96926 -75.59513,-44.90775 10.05893,-8.13885 169.68033,-88.3178 172.13418,-86.46422 6.42509,4.85335 16.7115,49.25918 17.83144,76.97717 1.37948,34.14067 -5.21396,58.5144 -22.06748,81.5765 -5.62567,7.69808 -10.66774,14.01148 -11.20458,14.02978 -0.53683,0.0185 -37.03113,-18.52688 -81.09843,-41.21148 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.19953871000000012;stroke-opacity:1" />
+      <path
+         transform="matrix(0.03435393,1.377757,-1.5602725,0.03033532,989.48658,-223.12948)"
+         d="m 433.57143,366.29074 a 10.714286,16.785715 0 1 1 -21.42857,0 10.714286,16.785715 0 1 1 21.42857,0 z"
+         sodipodi:ry="16.785715"
+         sodipodi:rx="10.714286"
+         sodipodi:cy="366.29074"
+         sodipodi:cx="422.85715"
+         id="path5244"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 377.20844,349.20031 c 0.83294,-1.73712 1.48719,-3.63003 2.10547,-5.55826 0.3739,-1.39924 1.04113,-2.51295 1.74573,-3.56115 3.32376,-5.46613 6.04505,-7.54647 10.00712,-10.22501 1.33917,-0.74505 2.77594,-1.14761 4.22148,-1.47924 1.15964,-0.62463 2.36336,-1.08984 3.59807,-1.44086 1.19433,-0.31215 2.4094,-0.51898 3.62281,-0.72945 1.17838,0.003 2.16681,-0.55094 3.21494,-1.06893 0.78224,-0.7985 1.60799,-1.54124 2.49992,-2.10619 0.76809,-1.03039 1.78134,-1.4613 2.82177,-1.79864 1.11202,-0.77445 2.32664,-1.21751 3.58106,-1.48764 2.43252,-0.11768 4.85675,-0.3017 7.27061,-0.56577 1.59479,-0.0405 3.12982,-0.68298 4.7402,-0.52776 1.49341,0.29298 2.9576,0.0945 4.41139,-0.0704 1.75144,-0.37892 3.52362,-0.41688 5.32684,-0.35781 1.30629,0.0516 2.59211,-0.0912 3.87067,-0.26934 1.36861,-0.40756 2.41028,-0.23874 3.82443,0.21315 1.21969,0.62106 2.39564,1.44519 3.61258,2.07708 1.35982,0.73754 2.74084,1.31722 4.07308,2.20859 1.42441,0.84787 2.81263,1.86605 4.24494,2.67907 1.17676,0.75285 2.36689,1.39337 3.56488,2.03643 1.13097,0.55418 2.262,1.09846 3.33926,1.90638 1.66115,1.30271 3.28887,2.72867 4.80934,4.3852 1.08728,1.02193 2.10634,2.18764 3.16411,3.27065 0,0 -6.45103,8.09254 -6.45103,8.09254 l 0,0 c -1.0416,-1.12574 -2.08596,-2.23807 -3.14675,-3.32436 -1.46953,-1.59313 -3.04828,-2.96907 -4.68341,-4.12064 -1.0799,-0.66528 -2.18321,-1.22695 -3.28425,-1.78083 -1.21313,-0.61725 -2.3874,-1.40617 -3.5853,-2.10179 -1.42361,-0.88835 -2.82408,-1.87257 -4.25886,-2.71309 -1.33011,-0.80824 -2.69662,-1.39987 -4.04048,-2.13256 -1.16006,-0.65621 -2.30434,-1.42404 -3.49376,-1.90762 -1.25119,-0.33004 -2.4181,-0.14208 -3.62612,0.078 -1.29875,0.14367 -2.6065,0.22021 -3.92935,0.1368 -1.77151,-0.0629 -3.50067,0.13631 -5.23204,0.41049 -1.49589,0.147 -2.99343,0.27331 -4.52203,0.0566 -1.5462,0.099 -3.06277,0.42948 -4.61308,0.50472 -2.4124,0.20231 -4.84928,0.27348 -7.22221,0.73781 -1.22509,0.4262 -2.38931,1.02204 -3.56566,1.61228 -0.98387,0.4693 -1.82314,1.21602 -2.69166,1.96687 -0.85033,0.69519 -1.66197,1.50936 -2.59656,1.99669 -1.06758,0.51471 -2.19218,0.70499 -3.3403,0.86535 -1.19655,0.21896 -2.39453,0.44091 -3.56075,0.81118 -1.22065,0.4148 -2.3896,1.01191 -3.61887,1.38942 -1.39803,0.37276 -2.78683,0.83065 -4.03423,1.71715 -3.18475,2.23873 -8.79431,7.43492 3.21599,-5.07958 -0.79856,0.83731 -1.45416,1.93363 -1.98342,3.1232 -0.55523,2.00135 -1.26629,3.86432 -1.99303,5.72078 0,0 -7.41355,6.4104 -7.41355,6.4104 z"
+         id="path5264"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.03567922;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

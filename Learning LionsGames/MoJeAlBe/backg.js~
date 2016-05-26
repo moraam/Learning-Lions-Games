@@ -1,0 +1,43 @@
+//have a global variable for the image
+var xPos=80;
+var yPos=100;
+var bg;
+var sprite1;
+function setup(){
+	createCanvas(600,400);
+	//load the sprite image
+	bg=loadImage("1.jpeg");
+	sprite1 = loadImage("3.png");
+}
+function draw(){
+	//clear();
+	//make the image the background
+	background(bg); 
+	
+	if (keyIsDown(LEFT_ARROW)) {
+		xPos -=5;
+	}
+	if (keyIsDown(RIGHT_ARROW)) {
+		xPos +=5;
+	}
+	if (keyIsDown(UP_ARROW)) {
+		yPos -=5;
+	}
+	if (keyIsDown(DOWN_ARROW)) {
+		yPos +=5;
+	}
+	if (xPos>500) {
+		xPos = 300;
+	}
+	if (yPos>320) {
+		yPos = 0;
+	}
+	if (xPos<0) {
+		xPos = 300;
+	}
+	if (yPos<0) {
+		yPos = 320;
+	}
+	image(sprite1,xPos,yPos,120,60);
+}
+

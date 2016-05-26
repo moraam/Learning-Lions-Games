@@ -1,0 +1,28 @@
+var sprite5;
+var sprite4;
+var bg;
+
+var spriteYpos=770;
+function setup(){
+	createCanvas(700,800);
+	bg=loadImage("bg.png");
+	sprite5=loadImage("sprite5.png")
+	sprite4=loadImage("sprite4.png")
+} 
+function draw(argument) {
+	var x=random(0,800);
+	var y=random(0,700);
+	//clear();
+	background(bg);
+	
+	while(x<700,y<800){
+		image(sprite4,x,y,20,20);
+		x=x+50;
+		//y=y+100;
+	}
+	
+}
+
+
+
+

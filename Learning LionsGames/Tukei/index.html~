@@ -1,0 +1,13 @@
+<!doctype>
+<html>
+    <head>
+        <title>Tina christine</title>
+        <link rel="stylesheet" href="/home/ll27/Desktop/Tukei/css/style.css"/>
+    </head>
+    <body>
+        <image src="/home/ll27/Desktop/Tukei/IMAGES/one.png" width="100%" height="50px" alt="Tina christine"/>
+        <h1 class="lion">my website</h1>
+        <p>This is my first new profile website</p> 
+        <img src="/home/ll27/Desktop/Tukei/IMAGES/daudi 2.jpg" alt="Tina christine"/>
+    </body>
+</html>
